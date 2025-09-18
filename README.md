@@ -30,5 +30,5 @@ O sistema tem como objetivo **cadastrar e gerenciar pedidos, clientes e usuário
 ## 📦 Instalação
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/usuario/pizzaria-muspelheim.git
+   git clone https://github.com/MatheusNeckel/Pizzaria-de-Muspelheim.git
 
