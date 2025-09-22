@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PedidosDAO {
+public class PedidosDTO {
 
     DataBaseDAO bd = new DataBaseDAO();
     private PreparedStatement st;

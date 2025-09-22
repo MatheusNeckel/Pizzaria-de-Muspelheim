@@ -8,7 +8,7 @@ import java.sql.Date;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ClientesDAO {
+public class ClientesDTO {
 
     DataBaseDAO bd = new DataBaseDAO();
     private PreparedStatement st;

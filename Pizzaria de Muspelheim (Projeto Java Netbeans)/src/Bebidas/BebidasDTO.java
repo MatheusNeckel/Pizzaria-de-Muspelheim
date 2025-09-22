@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BebidasDAO {
+public class BebidasDTO {
 
     DataBaseDAO bd = new DataBaseDAO();
     private PreparedStatement st;

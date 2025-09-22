@@ -2,28 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Bebidas/buscarBebidas.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/DataBase/DataBaseDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pizzas/atualizarPizzas.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Usuarios/buscarUsuarios.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Bebidas/BebidasDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Clientes/Clientes.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Usuarios/consultarUsuarios.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/App/AppDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Clientes/ClientesDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Clientes/buscarClientes.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pizzas/buscarPizzas.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Bebidas/consultarBebidas.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pedidos/consultarPedido.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pizzas/consultarPizzas.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Clientes/consultarClientes.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pizzas/PizzasDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pedidos/Pedidos.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Bebidas/Bebidas.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pedidos/PedidosDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Usuarios/UsuariosDAO.java</file>
-            <file>file:/C:/Users/55549/Documents/NetBeansProjects/Pizzaria%20de%20Muspelheim/src/Pedidos/buscarPedido.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

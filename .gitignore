@@ -1,0 +1,43 @@
+# Java / Builds
+/out/
+/bin/
+/dist/
+/target/
+/build/
+/.gradle/
+/.classpath
+.project
+.settings/
+*.class
+*.log
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# VSCode
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Dados locais e configs
+/config/*
+!/config/*.example
+/data/*
+!/data/.gitkeep
+!/data/*.example
+
+# Arquivos temporários
+*.tmp
+*.swp
